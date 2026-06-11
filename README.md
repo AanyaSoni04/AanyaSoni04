@@ -35,7 +35,7 @@ Building real-time platforms, compiler pipelines, and network intelligence tools
 
 ## About Me
 
-I'm a computer science undergraduate at NIT Hamirpur, deeply interested in how large-scale systems are designed, how networks carry data reliably at speed, and how compilers turn source code into something that runs.
+I'm a Computer Science undergraduate at NIT Hamirpur passionate about software engineering and building scalable, reliable systems. My interests span backend development, distributed systems, performance optimization, and the engineering challenges behind modern applications.
 
 - 🔭 Recently built: a Deep Packet Inspection (DPI) engine, a toy compiler pipeline, and a real-time collaborative coding platform
 - 📖 Exploring: software architecture, system design, distributed systems, and backend engineering
