@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Aanya+Soni;Software+Engineer+%26+Systems+Builder;Computer+Networks+%7C+Distributed+Systems;Building+Reliable+and+Scalable+Software." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Aanya+Soni;Software+Engineer+%26+Systems+Builder;Distributed+Systems+%7C+Backend+Engineering;Building+Reliable+and+Scalable+Software" alt="Typing SVG" />
 
 <br/>
 
