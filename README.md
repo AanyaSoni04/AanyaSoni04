@@ -1,22 +1,26 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aanya+Soni+%F0%9F%91%8B;Software+Engineer;Systems+%7C+Networks+%7C+Backend+Infrastructure;Building+things+that+scale." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Aanya+Soni;Software+Engineer+%26+Systems+Builder;Computer+Networks+%7C+Distributed+Systems;Building+Reliable+and+Scalable+Software." alt="Typing SVG" />
 
 <br/>
 
-**`Software Engineer · NIT Hamirpur · Systems & Backend`**
+**`Computer Science Undergraduate · NIT Hamirpur`**
 
 <p>
-Building scalable software systems, compiler pipelines, real-time collaborative platforms, and network intelligence tools.
+Computer Science undergraduate at NIT Hamirpur focused on systems engineering, computer networks, distributed systems, and backend infrastructure.
+</p>
+
+<p>
+Building real-time platforms, compiler pipelines, and network intelligence tools with an emphasis on correctness, scalability, and performance.
 </p>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanyasoni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aanyasoni)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aanyasoni)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanya@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AanyaSoni04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanya-soni-8060b32b1/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aanya_soni/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonianya268@gmail.com)
 
 </div>
 
@@ -24,7 +28,7 @@ Building scalable software systems, compiler pipelines, real-time collaborative 
 
 <!-- ANIMATED SHOWCASE -->
 <div align="center">
-  <img src="Assets/hermione-tech-engineer.gif" alt="Aanya Soni — Software Engineer" width="80%" style="border-radius: 12px;" />
+  <img src="Assets/hermione-tech-engineer.gif" alt="Aanya Soni — Software Engineer" width="70%" style="border-radius: 12px;" />
 </div>
 
 ---
@@ -33,11 +37,11 @@ Building scalable software systems, compiler pipelines, real-time collaborative 
 
 I'm a computer science undergraduate at NIT Hamirpur, deeply interested in how large-scale systems are designed, how networks carry data reliably at speed, and how compilers turn source code into something that runs.
 
-- 🔭 Currently building: a DPI engine with concurrent flow tracking and protocol classification in C++
-- 📖 Exploring: distributed systems internals, TCP/IP stack behaviour, and operating systems design
-- 🤝 Looking to collaborate on: backend infrastructure, networking tools, systems-level open source projects
-- 🧠 Fascinated by: why things break at scale — and how to engineer them so they don't
-- 🎯 Seeking: SWE internships and full-time roles in distributed systems, backend infra, or developer tooling
+- 🔭 Recently built: a Deep Packet Inspection (DPI) engine, a toy compiler pipeline, and a real-time collaborative coding platform
+- 📖 Exploring: software architecture, system design, distributed systems, and backend engineering
+- 🤝 Looking to collaborate on: impactful software projects, developer tools, and open-source initiatives
+- 🧠 Fascinated by: how great software is designed, scaled, and maintained
+- 🎯 Seeking: Software Engineering internships and full-time opportunities to build reliable and scalable products
 - ⚡ Fun fact: I wrote a toy compiler before I fully understood what a compiler was — reading the dragon book fixed that
 
 ---
@@ -155,7 +159,7 @@ I'm a computer science undergraduate at NIT Hamirpur, deeply interested in how l
 
 > *More projects live on my GitHub — including experiments in systems programming, networking utilities, and backend services.*
 
-[![View All Projects](https://img.shields.io/badge/View_All_Projects-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanyasoni?tab=repositories)
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AanyaSoni04?tab=repositories)
 
 </td>
 </tr>
@@ -205,7 +209,7 @@ I'm looking for teams building hard things in these spaces — where strong CS f
 
 *Open to SWE internships and full-time roles — feel free to reach out.*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aanyasoni)
-[![Email](https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanya@example.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanya-soni-8060b32b1/)
+[![Email](https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonianya268@gmail.com)
 
 </div>
