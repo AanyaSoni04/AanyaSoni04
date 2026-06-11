@@ -28,7 +28,7 @@ Building real-time platforms, compiler pipelines, and network intelligence tools
 
 <!-- ANIMATED SHOWCASE -->
 <div align="center">
-  <img src="Assets/hermione-tech-engineer.gif" alt="Aanya Soni — Software Engineer" width="70%" style="border-radius: 12px;" />
+  <img src="Assets/hermione-tech-engineer.gif" alt="Aanya Soni — Software Engineer" width="60%" style="border-radius: 12px;" />
 </div>
 
 ---
