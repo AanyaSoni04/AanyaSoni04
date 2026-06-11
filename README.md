@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="./Assets/hermione-tech-engineer.gif" width="500" />
+  <img src="./Assets/hermione-tech-engineer.gif" width="500" alt="Aanya Soni - Software Engineer" />
 </p>
